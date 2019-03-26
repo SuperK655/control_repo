@@ -1,4 +1,4 @@
-mod 'puppet/nginx' , '0.11'
+mod 'puppet/nginx' , '0.11.0'
 mod 'puppetlabs/stdlib' , '4.16.0'
 mod 'puppetlabs/concat'
 mod 'pltraining/dockeragent'
