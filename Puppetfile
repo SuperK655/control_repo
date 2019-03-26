@@ -1,6 +1,6 @@
 mod 'puppet/nginx' , '0.11.0'
 mod 'puppetlabs/stdlib' , '4.16.0'
-mod 'puppetlabs/concat'
+mod 'puppetlabs/concat', '4.2.0'
 mod 'pltraining/dockeragent'
 mod 'garethr/docker'
 mod 'stahnma/epel'
